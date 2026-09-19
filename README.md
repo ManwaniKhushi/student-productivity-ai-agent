@@ -87,7 +87,7 @@ Detailed test cases:
 
 ### Exa Web Search Tool
 
-![Exa Web Search Tool](./screenshots/exa_tool.png)
+![Exa Web Search Tool](./screenshots/exa-tool.png)
 
 ### Evaluation Results
 
